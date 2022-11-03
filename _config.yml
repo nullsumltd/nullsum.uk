@@ -1,0 +1,23 @@
+url: https://nullsum.uk
+baseurl: 
+
+# Site settings
+title: NULL SUM
+email: hello@nullsum.uk
+description: "NULL SUM UK Based DevOps & SRE contract consultancy."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://linkedin.com/company/nullsum
+  - title: github
+    url: https://github.com/nullsumltd
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Unit 36 Silk Mill Industrial Estate
+  - line: Brook Street, Tring, HP23 5EF
+
+# Build settings
+markdown: kramdown
+permalink: pretty
