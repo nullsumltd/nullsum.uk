@@ -1,0 +1,21 @@
+---
+title: YOOX NET-A-PORTER GROUP
+subtitle: DevOps Engineer - Global Payment Solution
+layout: default
+modal-id: 2
+date: 2023-02-09
+img: yoox.png
+thumbnail: yoox-thumbnail.png
+alt: YOOX NET-A-PORTER
+project-start: Feburary 2023
+project-end: August 2023
+client: YOOX NET-A-PORTER GROUP
+clienturl: https://www.ynap.com/
+role: DevOps Engineer
+description:
+
+---
+
+YOOX NET-A-PORTER is home to the world’s leading online luxury, fashion and style destinations with four multi-brand online stores: NET-A-PORTER, MR PORTER, THE OUTNET and YOOX.
+
+Null Sum was retained to help improve the Global Payment Solution (GPS) platform, the payment solution for all YNAP brands, into a PCI-DSS compliant and scaleable environment while maintaining production stability.

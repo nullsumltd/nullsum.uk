@@ -1,10 +1,13 @@
-url: https://nullsum.uk
+url: https://www.nullsum.uk
 baseurl: 
 
 # Site settings
 title: NULL SUM
 email: hello@nullsum.uk
+phone: 0870 875 2029
 description: "NULL SUM UK Based DevOps & SRE contract consultancy."
+company: Null Sum Ltd
+companyNo: 14454244
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -15,8 +18,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Unit 36 Silk Mill Industrial Estate
-  - line: Brook Street, Tring, HP23 5EF
+  - line: Unit 36
+  - line: Silk Mill Industrial Estate
+  - line: Brook Street
+  - line: Tring
+  - line: HP23 5EF
 
 # Build settings
 markdown: kramdown

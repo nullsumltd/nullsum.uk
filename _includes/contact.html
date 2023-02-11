@@ -29,8 +29,12 @@
                         <i class="fa-solid fa-envelope-open-text fa-stack-1x fa-inverse""></i>
                     </span>
                     <h4 class="service-heading">Post</h4>
-                    <p class="text-muted-light">Null Sum LTD, Unit 36 Silk Mill Industrial Estate<br />
-                        Brook Street, Tring, HP23 5EF</p>
+                    <p class="text-muted-light">{%- for item in site.address limit: 2 %}
+                        {{ item | map: "line" }}
+                      {%- endfor -%}, <br>
+                      {% for item in site.address offset: 2 %}
+                        {{ item | map: "line" }}{% if forloop.last %}{% else %}, {% endif %}
+                      {% endfor %}
                 </div>
             </div>
         </div>
