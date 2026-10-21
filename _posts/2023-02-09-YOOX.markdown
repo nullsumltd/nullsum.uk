@@ -8,7 +8,7 @@ img: yoox.png
 thumbnail: yoox-thumbnail.png
 alt: YOOX NET-A-PORTER
 project-start: Feburary 2023
-project-end: August 2026
+project-end: August 2027
 client: YOOX NET-A-PORTER GROUP
 clienturl: https://www.ynap.com/
 role: DevOps Engineer
