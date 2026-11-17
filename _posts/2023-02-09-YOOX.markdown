@@ -7,7 +7,7 @@ date: 2023-02-09
 img: yoox.png
 thumbnail: yoox-thumbnail.png
 alt: YOOX NET-A-PORTER
-project-start: Feburary 2023
+project-start: February 2023
 project-end: August 2026
 client: YOOX NET-A-PORTER GROUP
 clienturl: https://www.ynap.com/
